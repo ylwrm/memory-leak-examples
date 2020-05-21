@@ -4,7 +4,7 @@ function myArray() {
 }
 myArray();
 
-// // *** Solove
+// // *** Solve
 // function myArray() {
 //     let languages = new Array(10000000);
 // }
